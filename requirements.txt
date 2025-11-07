@@ -1,4 +1,9 @@
-# requirements.txt
-numpy
 pandas
-pytest
+numpy
+matplotlib
+seaborn
+scipy
+plotly
+notebook
+jupyterlab
+windrose
