@@ -7,3 +7,4 @@ plotly
 notebook
 jupyterlab
 windrose
+streamlit
